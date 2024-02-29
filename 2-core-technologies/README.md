@@ -1,4 +1,5 @@
 # №2 - Основные технологии и расширение типовых возможностей системы
+https://marketplace.1c-bitrix.ru/solutions/bitrix.liveapi/ - живое описание API (методы, классы, события каждого модуля)
 
 ## Программа курса
 - Расширение типового функционала: result_modifier.php, component_epilog.php и .parameters.php
